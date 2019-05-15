@@ -1,0 +1,22 @@
+{
+  "routes":[
+    {
+      "targetId":1,
+      "waypointRefs":[
+        {
+          "waypointId":1,
+          "nextWaypointId":2,
+          "direction": "RECHTDOOR"
+        },
+        {
+          "waypointId":2,
+          "nextWaypointId":3,
+          "direction": "RECHTS"
+        },
+        {
+          "waypointId":3
+        }
+      ]
+    }
+  ]
+}
